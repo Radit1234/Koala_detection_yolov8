@@ -38,7 +38,9 @@ yolo can be used for a variety of tasks and modes and accepts additional argumen
 ## Results
 
 Here are the results:
-https://drive.google.com/file/d/118c3O2eK48YQ0tnawi0eBtoDUg0KLsuh/view?usp=sharing
+![train_batch0](https://github.com/Radit1234/Koala_detection_yolov8/assets/48798988/d16698cb-878c-4c04-ae16-133f930838b0)
+![train_batch1](https://github.com/Radit1234/Koala_detection_yolov8/assets/48798988/709d30f3-23f2-4a09-b716-568a83f8b79f)
+![train_batch2](https://github.com/Radit1234/Koala_detection_yolov8/assets/48798988/0d722df9-836c-4a64-b57c-aa76c631e9d9)
 
 ## API Reference
 

@@ -57,6 +57,9 @@ Here are the results:
 
 ![P_curve](https://github.com/Radit1234/Koala_detection_yolov8/assets/48798988/01386e0a-8a1e-413b-9a7f-e4be2b689165)
 
+
+![results](https://github.com/Radit1234/Koala_detection_yolov8/assets/48798988/b1024091-703a-4e48-b4a8-bfc3bb319971)
+
 ## API Reference
 
 #### Get all items

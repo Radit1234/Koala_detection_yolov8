@@ -42,6 +42,21 @@ Here are the results:
 ![train_batch1](https://github.com/Radit1234/Koala_detection_yolov8/assets/48798988/709d30f3-23f2-4a09-b716-568a83f8b79f)
 ![train_batch2](https://github.com/Radit1234/Koala_detection_yolov8/assets/48798988/0d722df9-836c-4a64-b57c-aa76c631e9d9)
 
+
+## Results graphs
+
+[PR_curve](https://github.com/Radit1234/Koala_detection_yolov8/assets/48798988/a5abfb1f-dcb8-44a6-b322-6fd1ab80c2b1)
+
+![R_curve](https://github.com/Radit1234/Koala_detection_yolov8/assets/48798988/f65a7640-5d28-4777-820f-36164943b8e7)
+
+![F1_curve](https://github.com/Radit1234/Koala_detection_yolov8/assets/48798988/c1b22037-23df-4bf5-99e0-b4cb95a61e0c)
+
+![labels](https://github.com/Radit1234/Koala_detection_yolov8/assets/48798988/9785b3ad-f6a0-4820-8b68-ce22bc83333a)
+
+![labels_correlogram](https://github.com/Radit1234/Koala_detection_yolov8/assets/48798988/48bccc9f-bc8f-42e1-9c7a-f2bcb4491fc5)
+
+![P_curve](https://github.com/Radit1234/Koala_detection_yolov8/assets/48798988/01386e0a-8a1e-413b-9a7f-e4be2b689165)
+
 ## API Reference
 
 #### Get all items
